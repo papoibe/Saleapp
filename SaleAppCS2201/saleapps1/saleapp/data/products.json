@@ -1,0 +1,50 @@
+[{
+  "id": 1,
+  "name": "Iphone 16 ProMax",
+  "price": "30000000",
+  "image": "https://res.cloudinary.com/dy1unykph/image/upload/v1729238033/Apple-iPhone-16-Pro-hero-240909_inline.jpg.large_g7wiwb.jpg",
+  "category_id": 1
+},
+{
+  "id": 2,
+  "name": "Iphone 13",
+  "price": "30000000",
+  "image": "https://res.cloudinary.com/dy1unykph/image/upload/v1729238033/Apple-iPhone-16-Pro-hero-240909_inline.jpg.large_g7wiwb.jpg",
+  "category_id": 1
+},
+{
+  "id": 3,
+  "name": "Galaxy Z-fold",
+  "price": "30000000",
+  "image": "https://res.cloudinary.com/dy1unykph/image/upload/v1729238033/Apple-iPhone-16-Pro-hero-240909_inline.jpg.large_g7wiwb.jpg",
+  "category_id": 1
+},
+{
+  "id": 4,
+  "name": "Iphone 16 ProMax",
+  "price": "30000000",
+  "image": "https://res.cloudinary.com/dy1unykph/image/upload/v1729238033/Apple-iPhone-16-Pro-hero-240909_inline.jpg.large_g7wiwb.jpg",
+  "category_id": 1
+},
+{
+  "id": 5,
+  "name": "Iphone 16 ProMax",
+  "price": "30000000",
+  "image": "https://res.cloudinary.com/dy1unykph/image/upload/v1729238033/Apple-iPhone-16-Pro-hero-240909_inline.jpg.large_g7wiwb.jpg",
+  "category_id": 1
+},
+{
+  "id": 6,
+  "name": "Tablet 16 ProMax",
+  "price": "15000000",
+  "image": "https://res.cloudinary.com/dzqsxjioa/image/upload/v1730446520/71k7Ssjzo7L_pji2ms.jpg",
+  "category_id": 2
+},
+  {
+  "id": 7,
+  "name": "Macbook Pro 16 Inch M3",
+  "price": "35000000",
+  "image": "https://res.cloudinary.com/dzqsxjioa/image/upload/v1730446520/mbp16-spaceblack-select-202310_kbtzb6.jpg",
+  "category_id": 3
+}
+]
